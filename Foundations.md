@@ -36,7 +36,10 @@ Using H or C indicates that the BRF is integrated over a hemisphere or cone. The
 
 Therefore, BRF is the basic entity to define or model. For example, in NBAR, four of the RFs above (DDRF, DHRF, HDRF, HHRF) are used in its radiative transfer equation (Li et al, 2010, equation 1). If the BRF is reciprocal, DHRF=HDRF for the same D angle.
 
-*Figure1. Contributing components (theoretical after Nicodemus 1977\) to Bidirectional Reflectance Factor (BRF) applicable to the Li et al 2010 approach.*
+
+
+![Figure 1. Contributing components (theoretical after Nicodemus 1977\) to Bidirectional Reflectance Factor (BRF) applicable to the Li et al 2010 approach.](images/Figure1.png)
+*Figure 1. Contributing components (theoretical after Nicodemus 1977\) to Bidirectional Reflectance Factor (BRF) applicable to the Li et al 2010 approach.*
 
 ## 5.2 Application of terminology in practice
 
