@@ -46,9 +46,9 @@ The definition of BRF is chosen over others as the others follow from it by inte
 
 BRF (DDRF), HDRF, DHRF and HHRF can be explained using the equation (1) in Li et al (2010) BRDF paper  
 
-![][image1]
+$$ \rho_{TOA} = \rho_0 + t_V t_S \rho_s (\theta_S, \theta_v, \varphi) + t_Vt_d (\theta_S) \overline\rho + t_st_d(\theta_v) \overline{\rho'} + t_d(\theta_S) t_d (\theta_v) \overline{\overline\rho} + \frac{[t_v + t_d(\theta_v)][t_s + t_d(\theta_s)]S{\overline{\overline\rho}}^2}{1-S\overline{\overline\rho}} $$
 
-![][image2]is DDRF (BRF),  ![][image3]is HDRF, ![][image4] is DHRF and ![][image5] is HHDF. Geoscience Australia’s Nadir BRDF Adjusted Reflectance(NBAR) with Terrain Illumination Correction (-T) product represents DDRF (BRF)
+$  \rho_s (\theta_S, \theta_v, \varphi) $ is DDRF (BRF),  $\overline{\rho}$ is HDRF, $\overline{\rho'}$ is DHRF and $\overline{\overline{\rho}}$ is HHDF. Geoscience Australia’s Nadir BRDF Adjusted Reflectance(NBAR) with Terrain Illumination Correction (-T) product represents DDRF (BRF)
 
 | BRFs in the GA model (theoretical as in Nicodemus) XY X \= source FOV Y \= sensor FOV | Nicodemus 1977 Theoretical Uniform Sky Distributions *(never occurs in nature)* | Schaepman-Strub 2006 Describing  measurement in the real world | Measurable? \- as indicated by Schaepman-Strub | Validation |
 | :---- | :---- | :---- | :---- | :---- |
