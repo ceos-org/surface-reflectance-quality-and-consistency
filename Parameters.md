@@ -130,33 +130,33 @@ Make a note of the general nadir case.
 
 |  | quantity | input | measure | tolerance |
 | :---- | :---- | :---- | :---- | :---- |
-| θS | solar zenith angle |  |  |  |
-| φS | solar azimuth angle |  |  |  |
-| θV | sensor view zenith angle |  |  |  |
-| φV | sensor view azimuth angle |  |  |  |
-| θt | slope angle |  |  |  |
-| φt | aspect angle of the slope |  |  |  |
-| it | incident zenith angles between the sun directions and surface normal |  |  |  |
-| φi | azimuth angle for incident direction in the slope geometry |  |  |  |
-| et | exiting zenith angles between the  view directions and surface normal. |  |  |  |
-| φe | azimuth angle for exiting direction in the slope geometry |  |  |  |
-| tS | direct transmittance in the solar direction |  |  |  |
-| tV | direct transmittance in the view direction |  |  |  |
-| td(θS) | diffuse transmittance in the solar direction |  |  |  |
-| td(θV) | diffuse transmittance in the view direction |  |  |  |
-| S | the atmospheric albedo |  |  |  |
-| TS | total transmittance in the solar direction |  |  |  |
-| TV | total transmittance in the view direction |  |  |  |
-| LTOA | Sensor radiance at top of atmosphere |  |  |  |
-| L0 | path radiance |  |  |  |
-| E0′ | Solar exoatmospheric irradiance (earth-sun distance adjusted). |  |  |  |
-| ρS | the surface reflectance (the BRF or bi-directional reflectance factor which is *π* times the BRDF) |  |  |  |
-| ρadj | average reflectance of adjacent objects |  |  |  |
-| ρm | the atmospherically corrected Lambertian reflectance |  |  |  |
-| Eh | total irradiance on a horizontal surface |  |  |  |
-| Ehdir | the direct component of irradiance on a horizontal surface |  |  |  |
-| Ehdif | the diffuse component of irradiance on a horizontal surface |  |  |  |
-| E | total irradiance on an inclined surface |  |  |  |
-| Edir | direct component of irradiance on an inclined surface |  |  |  |
-| Edif | diffuse component of irradiance on an inclined surface |  |  |  |
+| $\theta_S$ | solar zenith angle |  |  |  |
+| $\varphi_S$ | solar azimuth angle |  |  |  |
+| $\theta_V$ | sensor view zenith angle |  |  |  |
+| $\varphi_V$ | sensor view azimuth angle |  |  |  |
+| $\theta_t$ | slope angle |  |  |  |
+| $\varphi_t$ | aspect angle of the slope |  |  |  |
+| $i_t$ | incident zenith angles between the sun directions and surface normal |  |  |  |
+| $\varphi_i$ | azimuth angle for incident direction in the slope geometry |  |  |  |
+| $e_t$ | exiting zenith angles between the  view directions and surface normal. |  |  |  |
+| $\varphi_e$ | azimuth angle for exiting direction in the slope geometry |  |  |  |
+| $t_S$ | direct transmittance in the solar direction |  |  |  |
+| $t_V$ | direct transmittance in the view direction |  |  |  |
+| $t_d(\theta_S)$ | diffuse transmittance in the solar direction |  |  |  |
+| $t_d(\theta_V)$ | diffuse transmittance in the view direction |  |  |  |
+| $S$ | the atmospheric albedo |  |  |  |
+| $T_S$ | total transmittance in the solar direction |  |  |  |
+| $T_V$ | total transmittance in the view direction |  |  |  |
+| $L_{TOA}$ | Sensor radiance at top of atmosphere |  |  |  |
+| $L_0$ | path radiance |  |  |  |
+| $E_0'$ | Solar exoatmospheric irradiance (earth-sun distance adjusted). |  |  |  |
+| $\rho_S$ | the surface reflectance (the BRF or bi-directional reflectance factor which is *π* times the BRDF) |  |  |  |
+| $\rho_{adj}$ | average reflectance of adjacent objects |  |  |  |
+| $\rho_m$ | the atmospherically corrected Lambertian reflectance |  |  |  |
+| $E_h$ | total irradiance on a horizontal surface |  |  |  |
+| $E_h^{dir}$ | the direct component of irradiance on a horizontal surface |  |  |  |
+| $E_h^{dif}$ | the diffuse component of irradiance on a horizontal surface |  |  |  |
+| $E$ | total irradiance on an inclined surface |  |  |  |
+| $E_{dir}$ | direct component of irradiance on an inclined surface |  |  |  |
+| $E_{dif}$ | diffuse component of irradiance on an inclined surface |  |  |  |
 
