@@ -12,7 +12,7 @@ This work seeks to describe a surface reflectance (Passive Satellite Viewed Bott
 - [**2. Definition**](Definition.md)
 - [**3. Scope**](Scope.md)
 - [**4. Steps/corrections needed to achieve consistency**](Steps.md)
-- [**5. Surface Reflectance Measurand**](Measurand.md)
+- [**5. Surface Reflectance Measurand**](Foundations.md)
 - [**6. Parameter Thresholds**](Parameters.md)
 - [**7. CEOS-ARD**](CEOS-ARD.md)
 - [**8. Discussion**](Discussion.md)
